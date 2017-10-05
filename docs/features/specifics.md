@@ -50,7 +50,7 @@ PM2_HOME='.pm2' pm2 list
 PM2_HOME='.pm3' pm2 list
 ```
 
-## Launch PM2 in no deamon
+## Launch PM2 in no daemon
 
 Make sure you kill any PM2 instance before starting PM2 in no deamon mode (`pm2 kill`).
 
